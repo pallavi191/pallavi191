@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Pallavi Patil 👋
 
-<!--
-**pallavi191/pallavi191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-stack Developer with a passion for building scalable web applications and solving complex problems. I specialize in:
 
-Here are some ideas to get you started:
+- MERN stack (MongoDB, Express.js, React.js, Node.js, Angular, AngularJS)
+- Data Structures and Algorithms (DSA)
+- Web application development and deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Current Projects:
+- Task Management System (MERN stack)
+- Blog Website (HTML, CSS, JavaScript with LocalStorage)
+
+### 📈 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallavi191&show_icons=true&count_private=true)
+
+### 🧑‍💻 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/pallavi-patil-a75212193/)
+- [Personal Website](https://your-website.com)
+
+### 🔧 Tools & Technologies:
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express, MongoDB
+- **Other:** Git, Docker, Redis, CI/CD, and more
